@@ -21,12 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:https://github.com/Eve-Wangari/3-card-preview.git
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
