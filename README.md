@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:https://github.com/Eve-Wangari/3-card-preview.git
-- Live Site URL: https://rainbow-gingersnap-cefed5.netlify.app/
+- Live Site URL:https://luminous-donut-ab2eb2.netlify.app/
 
 ## My process
 
